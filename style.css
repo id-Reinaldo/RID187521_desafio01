@@ -1,0 +1,65 @@
+*{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.bigtext{
+    background-color: #303030;
+    color: white;
+}
+#text1{
+    padding-top: 100px;
+    margin-left: 30px;
+}
+#text2{
+    margin-left: 30px;
+    padding:0 0 100px;
+}
+#conteiner{
+    margin: 100px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+h1{
+    margin-left: 100px;
+    margin-bottom: 0;
+}
+h5{
+    margin-left: 100px;
+    margin-top: 0;
+}
+#apr{
+    margin: 200px 20px 0 20px;
+}
+img{
+    margin: 0 40px 0 0;
+}
+#apresentacao{
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+h3{
+    color: white;
+    padding: 4% 0 4% 0;
+}
+form{
+    background-color: #303030;
+    text-align: center;
+}
+input{
+    margin: 0;
+    margin-bottom: 3%;
+   padding: 20px 200px 20px 10px;
+border-radius: 10px;
+border: none;
+
+}
+button{
+    background-color: #C07212;
+    margin-bottom: 100px;
+    padding: 20px 50px 20px 50px;
+border-radius: 10px;
+border: none;
+color: white;
+font-size: large;
+}
